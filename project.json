@@ -1,0 +1,8 @@
+{
+    "ProjectSlug": "",
+    "DisplayName": "",
+    "Author": "Aurélien Noce",
+    "Email": "aurelien@noce.fr",
+    "AddFirebaseAnalytics": true,
+    "AddActionSheetSupport": false
+}
